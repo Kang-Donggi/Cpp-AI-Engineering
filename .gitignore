@@ -1,0 +1,14 @@
+# 컴파일된 실행 파일 및 목적 파일 제외
+*.exe
+*.out
+*.o
+*.obj
+
+# 빌드 폴더 및 캐시 제외
+build/
+.vscode/
+.idea/
+
+# OS 환경 파일 제외
+.DS_Store
+Thumbs.db
